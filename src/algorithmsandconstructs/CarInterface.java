@@ -45,6 +45,7 @@ public interface CarInterface {
      * 
      * @return rate of the car.
      */
+    
     public double getRate();
     
     /**
